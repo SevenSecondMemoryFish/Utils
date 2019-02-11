@@ -1,6 +1,6 @@
 # Utils
 
-### 运行Demo方法
+### 运行demo方法
     cd demo 
     pod install
 
