@@ -15,4 +15,4 @@ DerivedData
 .gitignore
 
 #CocoaPods
-Pods/
+demo/Pods/
