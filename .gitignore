@@ -12,6 +12,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 
+.gitignore
 
 #CocoaPods
 Pods/
