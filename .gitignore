@@ -20,6 +20,6 @@ DerivedData
 *.xcworkspace
 !default.xcworkspace
 #CocoaPods
-demo/Pods
+demo/Pods/
 demo/Podfile.lock
 demo/xcschemes
