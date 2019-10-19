@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Voice-animation/Voice-animation.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:tableView/tableView/tableView.xcodeproj">
    </FileRef>
    <FileRef
